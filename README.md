@@ -12,6 +12,9 @@ https://github.com/kzhrk-slide
 
 [インターネトを巻き戻すPodcast](https://www.makimodo.net/)
 
+## Blog
+- https://blog.kzhrk.com
+
 ## SNS
 
 - [Twitter](https://twitter.com/kzhrk0430)
