@@ -10,7 +10,7 @@ https://github.com/kzhrk-slide
 
 ## Podcast
 
-[インターネトを巻き戻すPodcast](https://www.makimodo.net/)
+[インターネットを巻き戻すPodcast](https://www.makimodo.net/)
 
 ## Blog
 - https://blog.kzhrk.com
