@@ -3,11 +3,12 @@
 
 ## Slides
 
-https://github.com/kzhrk-slide
+- https://speakerdeck.com/kzhrk
+- https://github.com/kzhrk-slide
 
 ## Podcast
 
-[インターネットを巻き戻すPodcast](https://www.makimodo.net/)
+- [インターネットを巻き戻すPodcast](https://www.makimodo.net/)
 
 ## Blog
 
@@ -15,7 +16,7 @@ https://github.com/kzhrk-slide
 
 ## Networks
 
-- [Twitter](https://twitter.com/kzhrk0430)
+- [X](https://x.com/kzhrk0430)
 - [facebook](https://www.facebook.com/kzhrk/)
 - [npm](https://www.npmjs.com/~kzhrk)
 - [connpass](https://connpass.com/user/kzhrk/)
