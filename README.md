@@ -8,7 +8,7 @@
 
 ## Podcast
 
-- [インターネットを巻き戻すPodcast](https://www.makimodo.net/)
+- [インターネットを巻き戻すPodcast](https://makimodo.net/)
 
 ## Blog
 
